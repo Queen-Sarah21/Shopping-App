@@ -14,7 +14,9 @@ OnBoardingScreenView: Introduces users to the app's purpose and features.
 TopSellingView: Displays the top-selling fruits with easy navigation to detailed views. 
 
 Technologies Used 
+
 SwiftUI: For building the user interface and managing the app's layout. 
+
 NavigationView: Facilitates smooth transitions between different screens within the app. 
 
 Installation 
