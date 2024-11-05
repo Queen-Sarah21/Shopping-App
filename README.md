@@ -7,7 +7,9 @@ The Shopping App is a SwiftUI-based mobile application designed to provide users
 Features
 
 Onboarding Screen: A welcoming introduction that encourages users to order their favorite fruits while promoting a healthy lifestyle.
+
 Fruit Browsing: A horizontal scroll view displays a variety of fruits, each represented by a card that includes an image, title, price, and color.
+
 Navigation: Users can click on any fruit card to navigate to a detailed view, enhancing the shopping experience.
 
 Screens
